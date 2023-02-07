@@ -448,8 +448,8 @@ p {
 # Hero
 --------------------------------------------------------------*/
 #hero {
-  background: url("https://img.freepik.com/premium-photo/dark-beige-kraft-paper-texture-with-horizontal-stripes-background-high-resolution-photo_463999-1013.jpg?w=2000") repeat scroll center center/cover;
-  /* background: url("../img/home-bg.jpg") repeat scroll center center/cover; */
+  background: url("https://wildtextures.com/wp-content/uploads/2011/11/wildtextures-brown-leather-texture.jpg") repeat scroll center center/cover;
+  /* background: url("PICS.jpeg") repeat scroll center center/cover; */
   height: 100vh;
   width: 100%;
 }
